@@ -1,7 +1,7 @@
 Secure Edge IoT Sensor Ledger with Raspberry Pi, Geth & Smart Contracts
 A lightweight edge-IoT security and audit architecture that collects sensor events at a Raspberry Pi gateway and records trusted event metadata on a private Ethereum-compatible blockchain.
 
-![BlockDiagram_BLOCKCHAIN_TECH](https://postimg.cc/grHvM1QG][img]https://i.postimg.cc/grHvM1QG/Chat-GPT-Image-Sep-20-2026-10-09-09-PM(1).png[/img][/url]"This is a blockdiagram for blockchain")
+
 
 
 1. Project Overview
